@@ -4,8 +4,8 @@ This is a full-stack web app where users can sign in/register and use the form t
 
 The back-end code of the project is on a separate GitHub repo called face-recognition-api
 
-What I Used:
+What I Used: \n
 Front-End:
-1. React
+1. React.js
 2. CSS (Tachyons)
 
